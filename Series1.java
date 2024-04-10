@@ -19,6 +19,8 @@ Output:
 127
 131
 137
+ 
+Code:
 
  import java.util.*;
 class Main{
